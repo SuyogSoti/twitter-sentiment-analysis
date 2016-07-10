@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jacksonchen/twitter-sentiment-analysis.git"
+    "url": "git+https://github.com/suyogsoti/twitter-sentiment-analysis.git"
   },
   "author": "Suyog Soti and Jackson Chen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jacksonchen/twitter-sentiment-analysis/issues"
+    "url": "https://github.com/suyogsoti/twitter-sentiment-analysis/issues"
   },
-  "homepage": "https://github.com/jacksonchen/twitter-sentiment-analysis#readme",
+  "homepage": "https://github.com/suyogsoti/twitter-sentiment-analysis#readme",
   "dependencies": {
     "express": "^4.13.4",
     "oauth": "^0.9.14",
